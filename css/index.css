@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* css 안에 글꼴을 가져올때! (구글폰트) */
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+
+/* 그리드시스템 설정 */
+.container {
+    width: 100%; /* 모바일, 태블릿의 크기 */
+    max-width: 1024px; /* pc 크기 */
+    margin: 0 auto;
+}
+/* ↑ 반응형웹의 그리스시스템 설정 방법!! */
+
+/* ===== header ===== */
