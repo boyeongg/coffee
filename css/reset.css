@@ -18,7 +18,25 @@ a {
     text-decoration: none;
 }
 
-head,
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+header,
 main,
 footer,
 aside,
